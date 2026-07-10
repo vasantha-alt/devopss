@@ -18,7 +18,7 @@ pipeline {
 
             steps {
 
-                bat 'prg Hello'
+                bat 'java prg'
 
             }
 
